@@ -1,0 +1,15 @@
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Debug\BilancioDiMassa.exe.config
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Debug\BilancioDiMassa.exe
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Debug\BilancioDiMassa.pdb
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Debug\BilancioDiMassa.xml
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Debug\BilancioDiMassa.Form1.resources
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Debug\BilancioDiMassa.Resources.resources
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Debug\BilancioDiMassa.vbproj.GenerateResource.cache
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Debug\BilancioDiMassa.vbproj.CoreCompileInputs.cache
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Debug\BilancioDiMassa.exe
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Debug\BilancioDiMassa.xml
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Debug\BilancioDiMassa.pdb
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Debug\BilancioDiMassa.exe.manifest
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Debug\BilancioDiMassa.application
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Debug\BilancioDiMassa.exe.manifest
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Debug\BilancioDiMassa.application

@@ -1,0 +1,16 @@
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Release\BilancioDiMassa.exe.config
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Release\BilancioDiMassa.exe.manifest
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Release\BilancioDiMassa.application
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Release\BilancioDiMassa.exe
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Release\BilancioDiMassa.pdb
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\bin\Release\BilancioDiMassa.xml
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.Form1.resources
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.Resources.resources
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.vbproj.GenerateResource.cache
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.vbproj.CoreCompileInputs.cache
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.exe.manifest
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.application
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.exe
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.xml
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.pdb
+C:\Users\ebaldi\source\repos\BilancioDiMassa\BilancioDiMassa\obj\Release\BilancioDiMassa.vbprojAssemblyReference.cache
